@@ -1,0 +1,12 @@
+{
+    "user": {
+        "firstName": "Pera",
+        "lastName": "Peric",
+        "mobileNumber": "2413512461462",
+        "password": "sifra123"
+    },
+
+    "rental": {
+        "name": "alzer hotel"
+    }
+}
